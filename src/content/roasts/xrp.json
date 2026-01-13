@@ -1,0 +1,71 @@
+{
+  "slug": "xrp",
+  "client": "XRP",
+  "documentType": "Awareness Campaign RFP",
+  "date": "January 2026",
+  "theme": {
+    "accent": "#c41e3a",
+    "accentDark": "#8b1528",
+    "background": "#0a0a0a",
+    "backgroundAlt": "#141414"
+  },
+  "heroTitle": {
+    "line1": "The",
+    "emphasis": "Unspoken",
+    "line2": "Insecurity"
+  },
+  "surfaceRead": "XRP, a top-5 cryptocurrency, is seeking an agency to develop a $50M awareness campaign following the resolution of their SEC lawsuit. They want to position XRP as the leading digital asset across both retail and institutional audiences, driving cultural relevance and conversation.",
+  "unspokenInsecurity": "XRP is afraid it missed its moment.",
+  "truths": [
+    {
+      "number": "01",
+      "title": "\"Organic growth\" is polite language for paralysis",
+      "content": "The brief frames the lack of marketing as a \"deliberate choice\" during the SEC lawsuit. That's partially true. But the result is the same: Bitcoin became \"digital gold.\" Ethereum became \"programmable money.\" Solana became the \"fast, fun chain.\" XRP became... the one in court."
+    },
+    {
+      "number": "02",
+      "title": "The lawsuit was a brand wound",
+      "content": "Winning the case doesn't erase the association. For years, XRP was the coin the government was trying to kill. \"We're legal now\" isn't exactly a rallying cry. The brief buries this. They want to move on. But culture has a long memory."
+    },
+    {
+      "number": "03",
+      "title": "They're institutional in a world that rewards chaos",
+      "content": "XRP's value proposition—cross-border payments, institutional settlement—is genuinely impressive. But it's also deeply unsexy. Solana has memecoins. Bitcoin has laser eyes. XRP has... settlement speed for banks?"
+    },
+    {
+      "number": "04",
+      "title": "Loyalty isn't momentum",
+      "content": "The \"XRP Army\" is real and devoted. But a passionate community holding through years of stagnation is not the same as a growing, culturally-relevant movement. They have believers. What they don't have is converts."
+    },
+    {
+      "number": "05",
+      "title": "$50M is a bet, not a budget",
+      "content": "This is a lot of money to spend on \"awareness.\" Brands with clear positioning don't drop $50M to explain who they are. This is the spend of a brand that knows it has a perception problem and a closing window to fix it."
+    }
+  ],
+  "insight": "The insecurity is that they built something useful but not exciting. And in crypto, excitement is the currency.",
+  "tension": {
+    "left": {
+      "title": "The Institutional Play",
+      "description": "They want to be the serious, compliant, enterprise-grade asset—but that story doesn't travel on social, doesn't meme, doesn't create culture."
+    },
+    "right": {
+      "title": "The Retail Energy Play",
+      "description": "They want Reddit forums buzzing and influencers hyping—but their actual product isn't built for speculation, it's built for infrastructure."
+    }
+  },
+  "realProblem": {
+    "headline": "XRP doesn't know if it's a movement or a utility.",
+    "subtext": "They're asking us to make them unavoidable across both worlds. But the brief doesn't resolve which world they actually belong to. And until they decide, the messaging will feel like what it is—a 12-year-old asset trying to convince people it's still relevant."
+  },
+  "questionAvoiding": "Are you a movement or a utility?",
+  "wayThrough": {
+    "headline": "Own the tension.",
+    "body": "The way through isn't to pretend XRP is something it's not. It's to flip the script on what \"exciting\" means in crypto.",
+    "questions": [
+      "What if the most boring-sounding asset in crypto is actually the most radical?",
+      "What if \"institutional grade\" isn't a liability—it's the flex?",
+      "What if, in a market that burned everyone with hype and fraud, the unsexy thing becomes the smart thing?"
+    ]
+  }
+}

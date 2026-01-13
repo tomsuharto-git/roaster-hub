@@ -1,0 +1,71 @@
+{
+  "slug": "wb-games-sundance",
+  "client": "WB Games",
+  "documentType": "Sundance (Hogwarts Legacy 2) Strategy RFP",
+  "date": "January 2026",
+  "theme": {
+    "accent": "#c9a227",
+    "accentDark": "#8a6f1a",
+    "background": "#1a1520",
+    "backgroundAlt": "#0f0d12"
+  },
+  "heroTitle": {
+    "line1": "Lightning in",
+    "emphasis": "a Bottle",
+    "line2": "Twice?"
+  },
+  "surfaceRead": "WB Games is seeking an agency partner to develop brand strategy and campaign creative for \"Sundance\"—the sequel to Hogwarts Legacy, launching Q4 2027. They want to replicate the first game's breakout success ($1B+, best-selling game of 2023) by becoming \"omnipresent\" and positioning the launch as \"THE cultural moment of the year.\"",
+  "unspokenInsecurity": "They caught lightning in a bottle and don't know if they can do it again.",
+  "truths": [
+    {
+      "number": "01",
+      "title": "\"Organic growth\" was luck, and they know it",
+      "content": "\"Hogwarts Legacy's recipe for success was product/market fit + a great game + breaking out into culture organically.\" Translation: We don't actually understand why it worked. \"Organically\" is the word you use when you can't explain causality. The first game cashed in decades of pent-up nostalgia. That's not a repeatable formula—it's a one-time release valve."
+    },
+    {
+      "number": "02",
+      "title": "The 70% problem nobody mentions",
+      "content": "Buried in the brief: \"~30% of players finished the main storyline.\" Seven out of ten people who bought your narrative-driven RPG didn't care enough to finish the story. Now you're selling them... another story? The sequel's pillars are \"choice,\" \"story,\" and \"companion systems\"—all narrative features. But 70% of your base already voted: they don't want that."
+    },
+    {
+      "number": "03",
+      "title": "The competition has a name: GTA6",
+      "content": "GTA6 is the only external title mentioned by name in the entire document. That's not an accident. If GTA6 launches anywhere near Q4 2027, it will consume all oxygen in the gaming conversation. The RFP asks for a campaign that can \"cut through the noise\" but doesn't acknowledge the noise might be deafening."
+    },
+    {
+      "number": "04",
+      "title": "The HBO show is a liability disguised as synergy",
+      "content": "\"The upcoming TV show should re-energize fans.\" Should. Not will. The word choice reveals the uncertainty. The show is also targeting Q4 2027—blessing or competition for attention? Will HBO viewers want to play a game about Hogwarts after watching a show about Hogwarts, or will they feel saturated?"
+    },
+    {
+      "number": "05",
+      "title": "\"Fan fantasy fulfillment\" is a solved problem",
+      "content": "They say it out loud: \"Many bucket list Harry Potter fan fantasies have been fulfilled in HL1.\" The first game let you attend Hogwarts, learn spells, fly on a broom, explore the Forbidden Forest. What's left? The sequel is adding Quidditch and Diagon Alley—check-boxes, not new fantasies."
+    }
+  ],
+  "insight": "Hogwarts Legacy wasn't a game launch—it was a debt collection. Decades of fan desire, zero AAA Harry Potter games since the 2000s. The first game cashed in that debt. The sequel doesn't have debt to collect.",
+  "tension": {
+    "left": {
+      "title": "Be Everywhere",
+      "description": "They want Barbie/Wicked-level omnipresence—unavoidable, culture-defining, mainstream. That requires simplicity. One clear message repeated endlessly."
+    },
+    "right": {
+      "title": "Say Everything",
+      "description": "The brief lists dozens of selling points: choice, companions, exploration, story, Quidditch, dueling, Ministry of Magic... Feature overwhelm, not cultural messaging."
+    }
+  },
+  "realProblem": {
+    "headline": "They're selling a sequel to people who didn't finish the first one.",
+    "subtext": "The document treats this as a marketing problem (\"go big,\" \"be omnipresent\"). It's actually a product positioning problem. What is the reason to return that isn't \"more of the same\"? The brief doesn't answer this—it lists features and hopes one sticks."
+  },
+  "questionAvoiding": "If 70% of players didn't finish the first story, why would they buy a second one?",
+  "wayThrough": {
+    "headline": "Stop selling it as a sequel.",
+    "body": "The first game let people visit Hogwarts. This game should let them stay. The marketing opportunity isn't omnipresence—it's intimacy. Make returning to Hogwarts feel like coming home, not like buying DLC.",
+    "questions": [
+      "What if the pitch isn't \"the event of the year\" but \"your home in the wizarding world is still here\"?",
+      "What if instead of competing with GTA6 for attention, you offer the opposite: not chaos, but comfort?",
+      "What if the HBO show creates the longing and Sundance provides the permanence?"
+    ]
+  }
+}
