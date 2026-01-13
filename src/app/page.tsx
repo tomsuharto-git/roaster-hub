@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="min-h-screen">
       {/* Hero */}
-      <section className="min-h-[70vh] flex flex-col justify-center px-6 md:px-16 lg:px-24 py-24 relative">
+      <section className="min-h-[50vh] flex flex-col justify-center px-6 md:px-16 lg:px-24 pt-20 pb-16 relative">
         <div
           className="absolute inset-0 pointer-events-none"
           style={{
@@ -19,7 +19,7 @@ export default function Home() {
           Strategic Document Analysis
         </p>
 
-        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-normal leading-[1.05] mb-8 max-w-[14ch]">
+        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-normal leading-[1.05] mb-6 max-w-[14ch]">
           <span className="block opacity-0 animate-fade-up delay-100">The</span>
           <span className="block opacity-0 animate-fade-up delay-200">
             <em className="text-[var(--red)]">Roaster</em>
@@ -31,7 +31,7 @@ export default function Home() {
           We read the second one.
         </p>
 
-        <div className="mt-12 flex items-center gap-4 opacity-0 animate-fade-up delay-400">
+        <div className="mt-8 flex items-center gap-4 opacity-0 animate-fade-up delay-400">
           <div className="w-16 h-[1px] bg-[var(--gray)]" />
           <span className="label text-[var(--gray)]">{roasts.length} Analyses</span>
         </div>
@@ -47,7 +47,7 @@ export default function Home() {
               className="roast-card block"
             >
               <article
-                className="p-8 md:p-10 border border-white/10 bg-white/[0.02] hover:bg-white/[0.05] hover:border-opacity-20 transition-all relative overflow-hidden group"
+                className="h-full p-8 md:p-10 border border-white/10 bg-white/[0.02] hover:bg-white/[0.05] transition-all relative overflow-hidden group"
                 style={{
                   borderColor: `${roast.theme.accent}20`
                 }}
@@ -60,7 +60,7 @@ export default function Home() {
                   }}
                 />
 
-                <div className="relative">
+                <div className="relative flex flex-col h-full">
                   <p
                     className="label mb-4"
                     style={{ color: roast.theme.accent }}
@@ -72,11 +72,11 @@ export default function Home() {
                     {roast.client}
                   </h2>
 
-                  <p className="font-serif text-lg md:text-xl italic text-[var(--gray-light)] mb-6 line-clamp-2">
+                  <p className="font-serif text-lg md:text-xl italic text-[var(--gray-light)] mb-6 flex-grow">
                     &ldquo;{roast.unspokenInsecurity}&rdquo;
                   </p>
 
-                  <div className="flex items-center justify-between">
+                  <div className="flex items-center justify-between mt-auto pt-4 border-t border-white/10">
                     <span className="label text-[var(--gray)]">
                       {roast.date}
                     </span>
@@ -84,7 +84,7 @@ export default function Home() {
                       className="label group-hover:translate-x-1 transition-transform"
                       style={{ color: roast.theme.accent }}
                     >
-                      Read Analysis →
+                      Read →
                     </span>
                   </div>
                 </div>
