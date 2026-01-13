@@ -26,9 +26,8 @@ export default function Home() {
           </span>
         </h1>
 
-        <p className="text-lg md:text-xl text-[var(--gray-light)] max-w-[50ch] opacity-0 animate-fade-up delay-300">
-          Every business document is two documents: what they wrote, and what they couldn&apos;t say.
-          We read the second one.
+        <p className="text-lg md:text-xl text-[var(--gray-light)] max-w-[45ch] opacity-0 animate-fade-up delay-300">
+          Every brief, RFP, and strategy deck is hiding an insecurity. We expose it.
         </p>
 
         <div className="mt-8 flex items-center gap-4 opacity-0 animate-fade-up delay-400">
